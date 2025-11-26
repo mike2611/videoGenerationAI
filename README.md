@@ -1,5 +1,11 @@
+# AI Video Generator
 
-## 🚀 UI Screenshots – Responsive Design
+Generate complete videos from audio files or scripts with a single click, using AI-powered image generation and dynamic text overlays.
+Automatically combine your content into a complete video (images + audio + subtitles) in a single click.
+
+---
+
+## UI Screenshots – Responsive Design
 
 <table>
   <tr>
@@ -14,6 +20,6 @@
 
 ---
 
-## 🧪 Local Proof of Concept (POC)
+## Local Proof of Concept (POC)
 
 [Watch Demo Video](https://github.com/user-attachments/assets/4e670c20-bc71-49e6-8629-626e1d9bc45d)
