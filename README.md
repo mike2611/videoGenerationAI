@@ -3,12 +3,12 @@
 
 <table>
   <tr>
-    <td><img width="400" alt="Desktop UI" src="https://github.com/user-attachments/assets/c329eaa6-e0ce-42e8-b9e2-665ce75831d8" /></td>
-    <td><img width="200" alt="Mobile UI 1" src="https://github.com/user-attachments/assets/087354f4-faa8-45c7-9c85-6ccf183c0504" /></td>
+    <td><img  width="400" alt="Desktop UI" src="https://github.com/user-attachments/assets/3c420880-15ee-43fd-a4f1-ba4eafc8fec2" /></td>
+    <td><img width="251" alt="Mobile UI 1" src="https://github.com/user-attachments/assets/2ec5693f-510e-4284-8e97-edbf29952894" /></td>
   </tr>
   <tr>
-    <td><img width="400" alt="Desktop UI Alt" src="https://github.com/user-attachments/assets/f5ec19c5-8396-4909-8997-5d51b8ceb001" /></td>
-    <td><img width="200" alt="Mobile UI 2" src="https://github.com/user-attachments/assets/b1b35d4d-b31c-4811-b10c-c4f42afcf782" /></td>
+    <td><img width="400" alt="Desktop UI Alt" src="https://github.com/user-attachments/assets/650d41db-a4e1-4366-8f6f-6ebfa85e3674" /></td>
+    <td><img width="251" alt="Mobile UI 2" src="https://github.com/user-attachments/assets/47b8333d-0df6-45b7-bbd3-19f880d73e4a" /></td>
   </tr>
 </table>
 
