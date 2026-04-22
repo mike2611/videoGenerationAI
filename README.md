@@ -1,7 +1,10 @@
 # AI Video Generator
 
-Generate complete videos from audio files or scripts with a single click, using AI-powered image generation and dynamic text overlays.
+**​Note: This repository is used solely to display project advancement.**
+
+​Generate complete videos from audio files or scripts with a single click, using AI-powered image generation and dynamic text overlays.
 Automatically combine your content into a complete video (images + audio + subtitles) in a single click.
+
 
 ---
 
